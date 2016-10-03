@@ -21,7 +21,6 @@
   "files": [ "index.js" ],
   "dependencies": {
     "pixie": "^0.2.2",
-    "rsvg": "^0.2.5",
     "svg-to-png": "^3.1.0",
     "uuid": "^2.0.3"
   }
