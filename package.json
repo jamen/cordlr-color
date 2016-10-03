@@ -1,6 +1,6 @@
 {
   "name": "cordlr-color",
-  "description": "Given hex/rgb/hsl/etc. color codes, message an PNG image of them",
+  "description": "Given hex/rgb/hsl/etc. color codes, message a PNG image of them",
   "version": "0.1.2",
   "homepage": "https://github.com/jamen/cordlr-color",
   "author": "Jamen Marz (https://github.com/jamen)",

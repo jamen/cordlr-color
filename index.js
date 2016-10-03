@@ -10,7 +10,7 @@ function color (bot, config) {
   // Plugins traits
   color.command = 'color'
   color.usage = 'color <...codes>'
-  color.description = 'Given hex/rgb/hsl/etc. color codes, message an PNG image of them'
+  color.description = 'Given hex/rgb/hsl/etc. color codes, message a PNG image of them'
 
   // Pick config values, set defaults
   config = config[color.name] || {}
