@@ -1,7 +1,6 @@
 # cordlr-color [![NPM version](https://badge.fury.io/js/cordlr-color.svg)](https://npmjs.org/package/cordlr-color) [![Build Status](https://travis-ci.org/jamen/cordlr-color.svg?branch=master)](https://travis-ci.org/jamen/cordlr-color)
 
-> Given a hex/rgb/hsl/etc. color code, message an image of that color.
-
+> Given hex/rgb/hsl/etc. color codes, message an image of that color of them
 It supports anything SVG's `fill` would.
 
 ## Installation
