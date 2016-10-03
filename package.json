@@ -1,0 +1,27 @@
+{
+  "name": "cordlr-color",
+  "description": "Given a hex/rgb/hsl/etc. color code, message an image of that color.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jamen/cordlr-color",
+  "author": "Jamen Marz (https://github.com/jamen)",
+  "repository": "jamen/cordlr-color",
+  "bugs": {
+    "url": "https://github.com/jamen/cordlr-color/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "cordlr",
+    "color",
+    "svg",
+    "discord"
+  ],
+  "dependencies": {
+    "pixie": "^0.2.2",
+    "rsvg": "^0.2.5",
+    "svg-to-png": "^3.1.0",
+    "uuid": "^2.0.3"
+  }
+}
