@@ -1,7 +1,7 @@
 {
   "name": "cordlr-color",
   "description": "Given hex/rgb/hsl/etc. color codes, message an PNG image of them",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/jamen/cordlr-color",
   "author": "Jamen Marz (https://github.com/jamen)",
   "repository": "jamen/cordlr-color",
@@ -18,7 +18,9 @@
     "svg",
     "discord"
   ],
-  "files": [ "index.js" ],
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "pixie": "^0.2.2",
     "svg-to-png": "^3.1.0",
